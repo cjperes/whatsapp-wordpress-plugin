@@ -10,7 +10,7 @@ Insira o código abaixo dentro do head:
 
 E o código abaixo dentro do body, editando o número depois do 55 (código brasileiro):
 
-<a target="_blank" class="whatsapp-plug-icon" href="https://api.whatsapp.com/send?phone=5513997596634&text=Ola!"></a>
+# <a target="_blank" class="whatsapp-plug-icon" href="https://api.whatsapp.com/send?phone=55xxxxxxxxx&text=Ola!"></a>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
@@ -24,4 +24,4 @@ Insira o código abaixo dentro do head:
 
 E o código abaixo dentro do body, editando o número depois do 55 (código brasileiro):
 
-<a target="_blank" class="whatsapp-plug-icon" href="https://api.whatsapp.com/send?phone=5531985792687&text=Ola!"></a>
+# <a target="_blank" class="whatsapp-plug-icon" href="https://api.whatsapp.com/send?phone=55xxxxxxxx&text=Ola!"></a>
